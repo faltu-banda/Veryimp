@@ -19,6 +19,6 @@
     </style>
 </head>
 <body>
-    <h1>aur kitni chugli karoge bas karo aur apne kaam pe dhyan do!!!!</h1>
+    <h1>bhag ja bhaiiiii</h1>
 </body>
 </html>
